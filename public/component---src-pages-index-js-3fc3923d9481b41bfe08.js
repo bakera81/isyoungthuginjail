@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkis_young_thug_in_jail=self.webpackChunkis_young_thug_in_jail||[]).push([[678],{6558:function(t,i,n){n.r(i);n(7294);var s=n(7946),a={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"},e={marginTop:0,marginBottom:64,maxWidth:320};i.default=function(){return(0,s.tZ)("main",{style:a},(0,s.tZ)("title",null,"Is Young Thug in Jail?"),(0,s.tZ)("h1",{style:e},"Yes."))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-3fc3923d9481b41bfe08.js.map
