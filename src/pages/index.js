@@ -26,6 +26,16 @@ const IndexPage = () => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Is Young Thug in Jail?</title>
         <link rel="canonical" href="https://isyoungthuginjail.com" />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-2XCXT0BYTB"></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-2XCXT0BYTB');
+          `}
+        </script>
       </Helmet>
       <title>Is Young Thug in Jail?</title>
       <h1 style={headingStyles}>
