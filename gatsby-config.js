@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Is Young Thug in Jail`,
-    siteUrl: `https://www.isyoungthuginjail.com`
+    siteUrl: `https://isyoungthuginjail.com`
   },
   plugins: [
     "gatsby-plugin-emotion",
@@ -25,13 +25,13 @@ module.exports = {
         // This object is used for configuration specific to this plugin
         pluginConfig: {
           // Puts tracking script in the head instead of the body
-          head: false,
+          head: true,
           // Setting this parameter is also optional
           respectDNT: true,
           // Avoids sending pageview hits from custom paths
           exclude: ["/preview/**", "/do-not-track/me/too/"],
           // Defaults to https://www.googletagmanager.com
-          origin: "https://www.isyoungthuginjail.com",
+          origin: "https://isyoungthuginjail.com",
         },
       },
     },
