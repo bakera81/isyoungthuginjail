@@ -39,7 +39,7 @@ const IndexPage = () => {
       </Helmet>
       <title>Is Young Thug in Jail?</title>
       <h1 style={headingStyles}>
-        Yes.
+        No.
       </h1>
     </main>
   )
